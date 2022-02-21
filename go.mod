@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.2
-	github.com/aws/aws-sdk-go v1.42.4
+	github.com/aws/aws-sdk-go v1.43.2
 	github.com/briandowns/spinner v1.15.0
 	github.com/dustin/go-humanize v1.0.0
 	github.com/fatih/color v1.13.0
@@ -50,7 +50,7 @@ require (
 	github.com/nxadm/tail v1.4.8 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e // indirect
+	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f // indirect
 	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
 	golang.org/x/term v0.0.0-20210503060354-a79de5458b56 // indirect
 	golang.org/x/text v0.3.6 // indirect
