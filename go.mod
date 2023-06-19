@@ -26,7 +26,7 @@ require (
 	golang.org/x/mod v0.10.0
 	golang.org/x/sync v0.1.0
 	golang.org/x/term v0.6.0
-	golang.org/x/text v0.9.0
+	golang.org/x/text v0.10.0
 	gopkg.in/ini.v1 v1.67.0
 	gopkg.in/yaml.v3 v3.0.1
 )
