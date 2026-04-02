@@ -4,7 +4,7 @@ go 1.23
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.2
-	github.com/aws/aws-sdk-go v1.55.5
+	github.com/aws/aws-sdk-go v1.55.8
 	github.com/briandowns/spinner v1.23.1
 	github.com/dustin/go-humanize v1.0.1
 	github.com/fatih/color v1.17.0
